@@ -1,0 +1,6 @@
+{
+  "name": "Orbit Step",
+  "description": "A premium, highly interactive footwear e-commerce application with dynamic transitions, product details, interactive filters, carts, and real-time order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
